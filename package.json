@@ -1,0 +1,29 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "learn for spider by node",
+  "main": "spider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allenliu6/node-spider.git"
+  },
+  "keywords": [
+    "node",
+    "spider"
+  ],
+  "author": "allen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allenliu6/node-spider/issues"
+  },
+  "homepage": "https://github.com/allenliu6/node-spider#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "install": "^0.10.2",
+    "node-xlsx": "^0.11.2",
+    "request": "^2.83.0"
+  }
+}
